@@ -1,0 +1,3 @@
+strategies: [S01,S02,S03,S04,S05,S06,S07,S08,S09,S10,S11,S12,S13,S14]
+contract_version: 1.0
+risk_per_trade: 0.01
